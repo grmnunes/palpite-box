@@ -10,7 +10,7 @@ const Index = () => {
                 Por isso, estamos sempre abtertos a ouvir sua opinião.
             </p>
             <div className="text-center my-12 font-bold text-white">
-                <Link href="/">
+                <Link href="/pesquisa">
                     <a className="bg-blue-400 px-6 py-4 rounded-lg shadow-lg hover:shadow"> Dar opinião ou sugestão </a>
                 </Link>
             </div>
